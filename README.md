@@ -8,6 +8,10 @@ The goal of this project was to recreate the visualization below using **five di
 
 ![sample](img/sample.png)
 
+## Live Demo
+
+View the live demo of this project available through GitHub Pages! [View Visualization Here!](https://diwakarsandhu1.github.io/a2-DataVis-5ways/)
+
 ---
 
 ## d3.js
